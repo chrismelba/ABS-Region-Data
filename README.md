@@ -1,3 +1,8 @@
+Writeup on medium found here:
+https://medium.com/@chriscarter_95766/cycle-commuting-in-australia-b82db3b9a3ab?postPublishedType=initial
+
+The data cleaning was worked on collaboratively with blkemp to pull together a variety of Australian census data. All work in medium and in the "Chris Assignment" notebook is entirely my own.
+
 # ABS-Region-Data
 Explore data compiled from the Australian Bureau of Statistics (ABS) compiled as part of their AUSSTATS documentation, looking at trends across a wide variety of "key measures" by geographical region within Australia.
 
@@ -27,5 +32,3 @@ All exploration done on this dataset is currently being undertaking using Jupyte
 
 # Copyright
 Note all data sourced from the ABS is subject to copyright under Creative Commons Attribution 4.0 International, as outlined [here](https://www.abs.gov.au/copyright).
-
-Chris woz ere
